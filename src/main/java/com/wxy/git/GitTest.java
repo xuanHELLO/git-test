@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Git test!");
         System.out.println("Hello Git5!");
         System.out.println("Push Git5!");
+        System.out.println("Pull Git5!");
     }
 }
